@@ -1,0 +1,461 @@
+text,intent
+ Can you tell me about academic calender,Course
+ Tell me about programmes,Course
+ What is the admission appointment ,Admission
+admission appointment ,Admission
+admission appointment ,Admission
+admission documents ,Admission
+admission fee ,Admission
+are there any offer ,scholarship
+are there any offers plans,scholarship
+are there any scholarship,scholarship
+are there any scholarship plans,scholarship
+Available academic calender,Course
+Available admission criteria ,Admission
+Available admission documents ,Admission
+Available admission fee ,Admission
+Available bachelors degree,Course
+Available masters degree,Course
+Available procedure of visa,Visa
+Available scholarship,scholarship
+Available scholarships,scholarship
+Available scholarships,scholarship
+Available semseters,Course
+Available syllabus,Course
+Available visa appointment,Visa
+Available visa criteria,Visa
+Available visa procedure,Visa
+bachelor's degree ,Course
+bachelors programmes,Course
+bye,bye
+bye thank you,bye
+bye thanks,bye
+can i have the academic calendar,schedule
+can i have the address,Details
+can i have the contact details,Details
+can i have the number,Details
+Can I know about scholarship,scholarship
+Can I know admission procedure ,Admission
+Can I know bachelors degree,Course
+Can I know bachelors programmes,Course
+Can I know contact details,Details
+Can I know course structure,Course
+Can I know masters degree,Course
+Can I know programmes,Course
+Can I know semesters,Course
+can I know the academic schedule,schedule
+Can I know visa application,Visa
+Can I know visa appointment,Visa
+Can I know visa criteria,Visa
+Can I know visa documents,Visa
+Can I know visa duration,Visa
+can you give me the academic calendar,schedule
+can you give me the academic schedule,schedule
+can you give me the address,Details
+can you give me the contact,Details
+can you give me the contact details,Details
+can you give me the number,Details
+Can you tell me about admission appointment ,Admission
+Can you tell me about admission appointment ,Admission
+Can you tell me about admission criteria ,Admission
+Can you tell me about admission documents ,Admission
+Can you tell me about admission fee ,Admission
+Can you tell me about courses,Course
+Can you tell me about criteria of visa,Visa
+Can you tell me about mail address,Details
+Can you tell me about programmes,Course
+Can you tell me about scholarship,scholarship
+Can you tell me about scholarships,scholarship
+Can you tell me about visa criteria,Visa
+Can you tell me about visa documents,Visa
+Can you tell me how to apply for admission ,Admission
+course list,Course
+course structure,Course
+courses,Course
+Details of admission appointment ,Admission
+Details of admission criteria ,Admission
+Details of admission criteria ,Admission
+Details of admission fee ,Admission
+Details of admission fee ,Admission
+Details of application of visa,Visa
+Details of how to apply for admission ,Admission
+Details of procedure of visa,Visa
+Details of scholarship,scholarship
+Details of scholarships,scholarship
+Details of visa application,Visa
+Different available academic calender,Course
+Different available admission appointment ,Admission
+Different available admission appointment ,Admission
+Different available admission criteria ,Admission
+Different available admission documents ,Admission
+Different available admission fee ,Admission
+Different available admission fee ,Admission
+Different available admission procedure ,Admission
+Different available bachelors programmes,Course
+Different available course structure,Course
+Different available syllabus,Course
+Different available visa criteria,Visa
+Different available visa duration,Visa
+Do you offer appointment of visa,Visa
+Do you offer bachelors degree,Course
+Do you offer course list,Course
+Do you offer course structure,Course
+Do you offer documents of visa,Visa
+Do you offer duration of visa,Visa
+Do you offer electives,Course
+Do you offer master programmes,Course
+Do you offer masters degree,Course
+Do you offer procedure of visa,Visa
+Do you offer syllabus,Course
+Do you offer visa application,Visa
+Do you offer visa procedure,Visa
+documents needed for visa,Visa
+documents required for visa,Visa
+Duration of bachelors programmes,Course
+Duration of master programmes,Course
+Duration of masters degree,Course
+Duration of programmes,Course
+duration of visa,Visa
+Duration of visa documents,Visa
+Duration of visa procedure,Visa
+find academic calendar,schedule
+find address,Details
+find admission appointment ,Admission
+find admission certificates ,Admission
+find admission criteria ,Admission
+find admission documents ,Admission
+find admission documents ,Admission
+find application of visa,Visa
+find appointment of visa,Visa
+find bachelors programmes,Course
+find contact number,Details
+Find course structure,Course
+find electives,Course
+find endowment,scholarship
+find mail address,Details
+find master programmes,Course
+find offers,scholarship
+find programmes,Course
+find scholarship plans,scholarship
+find scholarships,scholarship
+find scholarships,scholarship
+find scholarships plans,scholarship
+find syllabus,Course
+find visa application duration,Visa
+find visa criteria,Visa
+get me the academic schedule,schedule
+give me address,Details
+give me contact,Details
+give me contact details,Details
+give me number,Details
+going out,bye
+going out ttyl,bye
+good morning are you there,greetings
+good morning whatsup,greetings
+greetings how are you,greetings
+have to go goodbye,bye
+heading out adieu,bye
+hello good day are you around?,greetings
+hello good day are you there,greetings
+hello good day how are you,greetings
+hello good day whats up,greetings
+hello good night,greetings
+hello good night sup,greetings
+hello how are you doing,greetings
+hello morning how are you,greetings
+hello morning whatsup,greetings
+Help me find academic calendar,schedule
+Help me find academic schedule,schedule
+Help me find admission appointment ,Admission
+Help me find admission certificates ,Admission
+Help me find admission criteria ,Admission
+Help me find admission criteria ,Admission
+Help me find admission fee ,Admission
+Help me find contact details,Details
+Help me find courses,Course
+Help me find electives,Course
+Help me find email,Details
+Help me find email address,Details
+help me find offer plans,scholarship
+help me find offers ,scholarship
+Help me find procedure of visa,Visa
+Help me find scholarship,scholarship
+help me find scholarships,scholarship
+help me find scholarships,scholarship
+Help me find scholarships,scholarship
+help me find scholarships plans,scholarship
+Help me find semesters,Course
+Help me find syllabus,Course
+Help me find visa application,Visa
+Help me find visa days,Visa
+Help me find visa documents,Visa
+Help me find visa duration,Visa
+hey,greetings
+hey good afternoon whats up,greetings
+hey good day sup,greetings
+hey greetings,greetings
+hey greetings how is it going,greetings
+hey how are you,greetings
+hey how are you doing,greetings
+hey morning are you around?,greetings
+hey whatsup,greetings
+hi,greetings
+hi good day how are you doing,greetings
+hi good day whatsup,greetings
+hi good morning,greetings
+hi good morning are you there,greetings
+hi good morning how are things going,greetings
+hi morning,greetings
+hi whats up,greetings
+how do I contact the university,Details
+how does the academic calendar look like ,schedule
+How long appointment of visa,Visa
+How long bachelors degree,Course
+How long course structure,Course
+How long courses,Course
+How long duration of visa,Visa
+How long master programmes,Course
+How long programmes,Course
+How long visa duration,Visa
+How many bachelors programmes,Course
+How many course structure,Course
+How many courses,Course
+How many days of visa,Visa
+How many days to finish visa application,Visa
+How many duration of visa,Visa
+How many master programmes,Course
+How many semesters,Course
+How many visa appointment,Visa
+How many visa duration,Visa
+How to apply for admission ,Admission
+how to avail scholarship,scholarship
+how to avail scholarships,scholarship
+how to get scholarship,scholarship
+how to sign up for scholarship,scholarship
+how to sign up for scholarships,scholarship
+how to take application of visa,Visa
+how to take procedure of visa,Visa
+how to take visa appointment,Visa
+how to take visa procedure,Visa
+im leaving now,bye
+im leaving now bye,bye
+I'm looking for academic calender,Course
+I'm looking for address,Details
+I'm looking for admission appointment ,Admission
+I'm looking for admission certificates ,Admission
+I'm looking for admission criteria ,Admission
+I'm looking for admission fee ,Admission
+I'm looking for admission fee ,Admission
+I'm looking for admission procedure ,Admission
+I'm looking for application of visa,Visa
+I'm looking for application of visa,Visa
+I'm looking for contact number,Details
+I'm looking for course structure,Course
+I'm looking for days of visa,Visa
+I'm looking for electives,Course
+i'm looking for endowment,scholarship
+i'm looking for endowment plans,scholarship
+I'm looking for how to apply for admission ,Admission
+I'm looking for how to apply for scholarship,scholarship
+i'm looking for offer plans,scholarship
+i'm looking for offers ,scholarship
+I'm looking for procedure of visa,Visa
+I'm looking for programmes,Course
+i'm looking for scholarship,scholarship
+I'm looking for scholarship,scholarship
+i'm looking for scholarship plans,scholarship
+I'm looking for scholarships,scholarship
+I'm looking for scholarships,scholarship
+i'm looking for scholarships plans,scholarship
+I'm looking for syllabus,Course
+I'm looking for visa appointment,Visa
+leaving goodbye,bye
+List admission appointment ,Admission
+"List admission appointment ""}]",Admission
+List admission certificates ,Admission
+List admission certificates ,Admission
+List admission criteria ,Admission
+List admission documents ,Admission
+List admission documents ,Admission
+List admission procedure ,Admission
+List admission procedure ,Admission
+List appointment of visa,Visa
+List bachelors programmes,Course
+List course list,Course
+List courses,Course
+List criteria of visa,Visa
+List days of visa,Visa
+List scholarships,scholarship
+List semesters,Course
+List visa application duration,Visa
+List visa criteria,Visa
+List visa days,Visa
+List visa procedure,Visa
+morning are you around,greetings
+Number of academic calender,Course
+Number of appointment of visa,Visa
+Number of bachelors degree,Course
+Number of bachelors programmes,Course
+Number of courses,Course
+Number of criteria of visa,Visa
+Number of procedure of visa,Visa
+Number of programmes,Course
+Number of semesters,Course
+Number of visa documents,Visa
+Please provide academic calendar,schedule
+Please provide academic schedule,schedule
+Please provide address,Details
+Please tell about admission appointment ,Admission
+Please tell about admission certificates ,Admission
+Please tell about admission criteria ,Admission
+Please tell about admission procedure ,Admission
+Please tell about application of visa,Visa
+Please tell about appointment of visa,Visa
+Please tell about bachelors degree,Course
+Please tell about bachelors programmes,Course
+Please tell about criteria of visa,Visa
+Please tell about duration of visa,Visa
+Please tell about masters degree,Course
+Please tell about procedure of visa,Visa
+Please tell about programmes,Course
+Please tell about syllabus,Course
+Please tell about visa application,Visa
+Please tell about visa criteria,Visa
+Please tell about visa days,Visa
+Please tell about visa documents,Visa
+Please tell about visa duration,Visa
+Please tell about visa procedure,Visa
+provide the academic calendar,schedule
+provide the academic schedule,schedule
+provide the address,Details
+provide the contact details,Details
+provide the number,Details
+semesters,Course
+Suggest some academic calender,Course
+Suggest some admission appointment ,Admission
+Suggest some admission certificates ,Admission
+Suggest some admission criteria ,Admission
+Suggest some admission documents ,Admission
+Suggest some admission procedure ,Admission
+Suggest some appointment of visa,Visa
+Suggest some course structure,Course
+Suggest some courses,Course
+Suggest some master programmes,Course
+Suggest some programmes,Course
+Suggest some scholarship,scholarship
+Suggest some scholarship,scholarship
+Suggest some scholarship,Visa
+Suggest some semesters,Course
+Suggest some syllabus,Course
+Suggest some visa application,Visa
+Suggest some visa procedure,Visa
+talk to you later farewell,bye
+talk to you soon bye,bye
+Tell me about academic calender,Course
+Tell me about admission certificates ,Admission
+Tell me about admission fee ,Admission
+Tell me about admission fee ,Admission
+Tell me about application of visa,Visa
+Tell me about bachelors degree,Course
+Tell me about courses,Course
+Tell me about documents of visa,Visa
+Tell me about masters degree,Course
+Tell me about procedure of visa,Visa
+Tell me about scholarship,scholarship
+Tell me about scholarship,scholarship
+Tell me about scholarships,scholarship
+Tell me about semesters,Course
+Tell me about the academic schedule,schedule
+Tell me about the visa proceudre,Visa
+Tell me about visa appointment,Visa
+Tell me email address,Details
+thank you ,bye
+thank you adieu,bye
+thank you gtg,bye
+thanks bye,bye
+thanks for your help,bye
+visa appointment,Visa
+visa documents,Visa
+What are the academic calender,Course
+What are the admission appointment ,Admission
+What are the admission certificates ,Admission
+What are the admission documents ,Admission
+What are the bachelors degree,Course
+What are the course list,Course
+What are the days of visa,Visa
+what are the documents needed for visa,Visa
+what are the documents required for visa,Visa
+What are the electives,Course
+what are the eligibity for scholarship,scholarship
+what are the endowment,scholarship
+What are the necessary admission certificates ,Admission
+What are the necessary admission criteria ,Admission
+What are the necessary admission documents ,Admission
+What are the necessary admission procedure ,Admission
+what are the offers,scholarship
+What are the required admission appointment ,Admission
+What are the required admission certificates ,Admission
+What are the required admission documents ,Admission
+What are the required admission fee ,Admission
+What are the required admission procedure ,Admission
+what are the scholarships,scholarship
+What are the scholarships,scholarship
+what are the scholarships plans,scholarship
+What are the steps application of visa,Visa
+What are the steps application of visa,Visa
+What are the steps apply for admission ,Admission
+What are the steps apply for scholarship,scholarship
+What are the steps duration of visa,Visa
+What are the steps for visa appointment,Visa
+What are the steps visa criteria,Visa
+What are the syllabus,Course
+What are the visa procedure,Visa
+what is the academic calendar,schedule
+What is the academic calendar,schedule
+What is the academic schedule,schedule
+what is the address,Details
+What is the admission appointment ,Admission
+What is the admission certificates ,Admission
+What is the admission certificates ,Admission
+What is the admission criteria ,Admission
+What is the admission criteria ,Admission
+What is the admission documents ,Admission
+What is the admission fee ,Admission
+What is the admission fee ,Admission
+What is the admission procedure ,Admission
+What is the admission procedure ,Admission
+What is the bachelors programmes,Course
+what is the contact,Details
+what is the contact details,Details
+What is the contact number,Details
+What is the course structure,Course
+What is the criteria for visaapplication,Visa
+What is the days of visa,Visa
+What is the duration to get visa,Visa
+what is the eligibity for scholarships,scholarship
+What is the mail address,Details
+What is the master programmes,Course
+What is the necessary admission criteria ,Admission
+What is the necessary admission documents ,Admission
+What is the necessary admission fee ,Admission
+What is the necessary admission fee ,Admission
+what is the number,Details
+what is the office hours,Details
+What is the procedure to apply for visa,Visa
+What is the required admission appointment ,Admission
+What is the required admission appointment ,Admission
+What is the required admission certificates ,Admission
+What is the required admission criteria ,Admission
+What is the required admission criteria ,Admission
+What is the required admission fee ,Admission
+What is the semesters,Course
+What is the syllabus,Course
+What is the visa application,Visa
+What is the visa criteria,Visa
+when does the office open,Details
+when is the office close,Details
+when is the office open,Details
+when is the office open,Details
+when is the university hours,Details
+where is the university located,Details
+where is the university location,Details

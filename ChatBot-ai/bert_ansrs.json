@@ -1,0 +1,41 @@
+{"intents": [
+    {
+        "tag": "Details",
+        "responses": "P.O. Box 345019; Located in Dubai International Academic City; HELPLINE: 800AMITY (26489)/ +971 4 4554 900. email: www.amityuniversity.ae; Contact Telephone: +9714 4554 900 Fax: +9714 4356 810 Mobile Helpline: +971 55 2305 741 +971 55 215 4941; Admissions: admissions@amityuniversity.ae; Academic Office: academicoffice@amityuniversity.ae General: info@amityuniversity.ae; Opening hours: Sunday to Thursday, 9am to 5pm",
+        "context": [""]  
+    },
+    {"tag": "scholarship",
+     "responses": "Our scholarships are granted annually and reassessed for the following years according to academic performance (Merit List based on CGPA). The scholarships we offer are Merit Scholarship, Means Scholarship, Amity Graduate Awards, Sibling Scholarship, Sibling Scholarship, Sports Scholarship and Emirati Scholarship. About Merit Scholarship:  These scholarships are granted at the time of admission and are based on school or graduation results and is only applicable to students graduating from schools or universities in the UAE. About Merit Scholarship for Undergraduate Programmes: 100% scholarships are awarded to students achieving 93% or above in CBSE board exams or the equivalent from another curriculum. This is only applicable to students graduating from schools or universities in the UAE. 50% is awarded for 88% or above and 25% for 80% or above or the equivalent. About Merit Scholarship for Postgraduate Programmes: 15% is awarded for achieving 75% or above in a recognised Bachelor's degree or the equivalent and is only applicable to students graduating from schools or universities in the UAE. About Means Scholarship: These scholarships are for students who are academically proficient and need financial assistance from the University. Please note that all requests for Means Scholarships are evaluated by the Scholarship Committee and the decision of the Committee is final. About Amity Graduate Awards: Students who have completed an undergraduate programme from Amity University Dubai are awarded a 20% scholarship. About Sibling Scholarship: When a second sibling joins Amity University Dubai, a 15% scholarship is awarded to them. About Sports Scholarship: Awarded for excellence in sporting achievements. Subject to management approval. About Emirati Scholarship: All Emirati nationals are eligible for a 20% scholarship.",
+     "context": [""]
+    },
+    {
+        "tag": "schedule",
+        "responses": "You can find the schedule in the link here: https://amityuniversity.ae/students/academic-calendar",
+        "context": [""]  
+    },
+    {
+        "tag": "Admission",
+        "responses": "How to apply for Admission details, The admission procedure is Complete the application form and submit it together with the below documents to admissions@amityuniversity.ae and then Your application will be assessed by the Admissions Committee and for successful candidates, an offer will be made, The offer letter can be accepted on the payment of a registration and application fee of AED 3,100, along with your tuition fees, If required, once your registration fee and tuition fees have been paid, you can apply for your student visa, housing and to use the University's transport service; Admission documents: Complete the application form and submit it together with the below documents to admissions@amityuniversity.ae; Admission fee details: The offer letter can be accepted on the payment of a registration and application fee of AED 3,100, along with your tuition fees; Admission requirements: 1. A jpeg of a recent passport photograph, 2. A copy of your Passport, 3. For UAE residents, a copy of your Emirates ID and Visa page plus a copy of your sponsoring parent's Passport, Emirates ID and Visa page, 4. For Undergraduate applications, a copy of your grade X and XII results or equivalent secondary school exam results, 5. For Postgraduate applications, a copy of your grade X and XII results or equivalent secondary school exam results and a copy of your undergraduate degree certificate including course transcripts.",
+        "context": [""]  
+    },
+    {"tag": "Course",
+            "responses": " The courses offered are Management, Engineering and Technology, Science, Architecture, Hospitality, Law. The course structure for the course Management is (https://amityuniversity.ae/academics/management), Engineering and Technology is (https://amityuniversity.ae/academics/engineering-and-technology), Science is(https://amityuniversity.ae/academics/science), Architecture is (https://amityuniversity.ae/academics/architecture), Design is (https://amityuniversity.ae/academics/design), Law is (https://amityuniversity.ae/academics/law), Arts and Humanities is (https://amityuniversity.ae/academics/arts-and-humanities), Hospitality(https://amityuniversity.ae/academics/hospitality), Tourism(https://amityuniversity.ae/academics/tourism); Masters programmes: Master of Business Administration, Master of Science (Forensic Sciences), Master of Arts (Applied Psychology), Master of Interior Design; Bachelors Programmes: Bachelor of Arts, Bachelor of Business Administration, Bachelor of Interior Design, Bachelor of Science, Bachelor of Architecture, Bachelor of Hotel Management, Bachelor of Design, Bachelor of Architecture, Bachelor of Technology, Bachelor of Fine Art ",
+     "context": [""]
+    },
+    {
+        "tag": "Visa",
+        "responses": "To complete the visa procedure fill the application form then Ensure that all your information  matches the details on your passport then the Student Services Team will initiate your visa application,Once you have your Entry Permit and arrive in the UAE, you will need to take your passport to the Student Services Team who will then apply for your medical appointment and clearance and This process is normally completed within 20 working days, Your passport will then go to Immigration for the stamping of your visa, which can take another 20 working days, Provided that you have completed the application for an Emirates ID on the day that you complete your medical test,",
+        "context": [""]  
+    },     
+    {
+        "tag": "greetings",
+        "responses": "Hi there",
+        "context": [""]  
+    },
+    {
+        "tag": "bye",
+        "responses": "bye",
+        "context": [""]  
+    }        
+]
+}

@@ -1,0 +1,78 @@
+<head>
+    <meta charset="UTF-8">
+    <title>Chatbot</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles/style.css') }}">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  </head>
+  <nav id="sidebar">
+    <div id="dismiss">
+        <i class="fas fa-arrow-left"></i>
+    </div>
+
+    <div class="sidebar-header">
+       
+      
+<br><br>
+<div id="wrapper">
+
+    <!-- Sidebar -->
+    <div id="sidebar-wrapper">
+        <ul class="sidebar-nav">
+            {% if session.user_id %}
+            <li class="nav-item"><a class="nav-link" href="/facesetup">Face Recognition setup</a></li>
+            <li class="nav-item"><a class="nav-link" href="/home">Chatbot</a></li>
+            <li class="nav-item"><a class="nav-link" href="/filters">Filters</a></li>        
+            <li class="nav-item"><a class="nav-link" href="/logout">Log Out</a></li>
+                    
+            {% else %}
+            <li class="nav-item"><a class="nav-link" href="/register">Register</a></li>
+            <li class="nav-item"><a class="nav-link" href="/login">Log In</a></li>
+            <a class="navbar-brand" href="/home"><span class="blue"><img height="100px" width="400px"  style="position: absolute; left: 460px; top:-10px;" src="/static/h.png"></a>
+            {% endif %}
+            </ul>
+    </div>
+    <div id="page-content-wrapper">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-lg-12">
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+   
+    </div>
+</nav>
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8  offset-lg-2">
+    
+                
+                <h2 class="mt-5">FILTERS</h2>
+                <form method="post" action="{{ url_for('tasks') }}">
+                <input type="submit" value="Stop/Start" name="stop" />
+                <input type="submit" value="Capture" name="click"/>
+                <input type="submit" value="Grey" name="grey" />
+                <input type="submit" value="Negative" name="neg" />
+                <input type="submit" value="Threshold" name="thres" />
+                <input type="submit" value="Face Only" name="face" />
+                <input type="submit" value="Start/Stop Recording" name="rec" />
+                </form>
+                <img src="{{ url_for('video_feed') }}" height="80%">
+                <h3 style="font-family:courier;">Instructions:</h3>
+                <ol style="font-family:courier;">
+                <li>Stop/Start--Toggle between stop or start live streaming</li>
+                <li>Capture--Take still-shot and save in the 'shots' directory</li>
+                <li>Grey--Toggle between grayscale and RGB output</li>
+                <li>Negative--Toggle between negative and RGB output</li>
+                <li>Face Only--Shows just your face if present(Toggle on/off)</li> 
+                <li>Start/Stop Recording--Toggle between starting and stopping video recording</li> </ol>	
+                
+            </div>
+        </div>
+    </div>
+    </body>
